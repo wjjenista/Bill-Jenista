@@ -1,3 +1,5 @@
 Donuts are tasty.
 
 Some are sweet. A few are salty.
+
+Donut holes are usually sweet.
